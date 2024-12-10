@@ -1,0 +1,16 @@
+---
+title: "prueba"
+author: "Ariel Alvarez"
+date: "2024-12-10"
+output: html_document
+---
+
+Primer intento de github con markdown
+aaaaaaaaa
+
+ahora qué
+
+```{r}
+2+2
+```
+
